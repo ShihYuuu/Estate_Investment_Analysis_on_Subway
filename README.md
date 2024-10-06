@@ -1,3 +1,5 @@
+## Introduction
+
 ### The initial research questions you used to explore the data
 
 Our client, a passionate fan of Subway sandwiches, is exploring the possibility of opening a franchise in a specific region of the United States. We plan to leverage data from SafeGraph to first identify which state or area has the highest Subway popularity, allowing our client to choose the ideal franchise location. Based on peak customer traffic in that region, our client will develop employee scheduling. Additionally, our client will tailor the menu offerings and promotional activities using demographic insights, such as age and income, from the state's population.
